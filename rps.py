@@ -29,5 +29,6 @@ while True :
     if playagain != 'yes' :
         break    
 print('bye, have a great day !')
+print("see you soon :(")
 
 
