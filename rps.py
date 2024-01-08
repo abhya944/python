@@ -25,7 +25,7 @@ while True :
             else:
                 print("player won!")
     
-    playagain = input("do you wanna play again? : yes/no ").lower()
+    playagain = input("do you wanna play again? yes/no : ").lower()
     if playagain != 'yes' :
         break    
 print('bye, have a great day !')
